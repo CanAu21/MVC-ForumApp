@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": "Furkan",
+      "title": "React MVC",
+      "text": "What is React MVC",
+      "date": "2023-09-11T19:13:21.364Z"
+    },
+    {
+      "user": "Can",
+      "title": "React",
+      "text": "What is React ?",
+      "id": "dd62a443-a621-4818-9415-30699760686e"
+    },
+    {
+      "user": "Can",
+      "title": "JS",
+      "text": "What is JS",
+      "id": "86d38055-8eae-4737-989f-30aeea02eb17"
+    },
+    {
+      "user": "Furkan",
+      "title": "react ",
+      "text": "what is react",
+      "id": "77656285-8db4-4e70-b3ac-7abbf9e9bbcc"
+    }
+  ]
+}
